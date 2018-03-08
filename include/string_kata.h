@@ -3,6 +3,6 @@
 
 #include <string>
 
-int stringSum (const std::string & inputStr);
+long stringSum (const std::string & inputStr);
 
 #endif
