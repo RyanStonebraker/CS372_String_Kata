@@ -1,3 +1,8 @@
+// testcases.cpp
+// 3/9/2018
+// Ryan Stonebraker
+// Test Cases for the string calculator kata.
+
 #include "catch.hpp"
 #include "string_kata.h"
 
